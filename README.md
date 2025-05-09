@@ -1,4 +1,4 @@
-WEBDOOS - ver. 4 FILE DIRECTORY PATHING
+WEBDOOS - ver. 4 FILE DIRECTORY PATHING (READ IN CODE VIEW)
 
 contact.html
 gallery.html
